@@ -1,0 +1,12 @@
+1) O que significa o design de desenvolvimento de Software DAO?
+
+2)Como se implementa o Design no nosso projeto?
+
+3)Qual a vantagem de sua utilização em um projeto web?
+R:noticias.js, noticia.js, admin.js.
+
+4)Quais rotas do nosso projeto precisam da classe NoticiasDAO?
+
+
+5)Qual o significado da palavra reservada new utilizada nas rotas do projeto?
+R:new é uma palavra reservada para criar objetos.
